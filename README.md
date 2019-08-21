@@ -15,11 +15,13 @@
 ## 待添加部分
 - seleium bs4 
 
-# 附
-## 资源
-> [CookiesPool](https://github.com/hucaihui/CookiesPool)
 
-> [知名网站登录](https://github.com/hucaihui/fuck-login)
+## 资源
+[CookiesPool](https://github.com/hucaihui/CookiesPool)
+
+ [知名网站登录](https://github.com/hucaihui/fuck-login)
+
+# 附
 
 [python命名规范](http://www.cnblogs.com/wangcp-2014/p/4608265.html)
 
