@@ -6,14 +6,11 @@
 
 # 文件说明
 
-## base
-- 爬虫小实例（猫眼、豆瓣ajax)
+**base** 爬虫小实例（猫眼、豆瓣ajax)
 
-## scrapy
-- scrapy框架使用实例
+**scrapy** scrapy框架使用实例
 
-## 待添加部分
-- seleium bs4 
+**待添加部分** seleium bs4 
 
 
 ## 资源
