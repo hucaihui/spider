@@ -1,4 +1,4 @@
-# 爬虫学习教程总结
+# 1、爬虫学习教程总结
 [如何入门爬虫](https://zhuanlan.zhihu.com/p/21479334)
 
 [爬虫实例](https://blog.csdn.net/rico_zhou/article/details/83619564)
@@ -15,8 +15,10 @@
 ## 待添加部分
 - seleium bs4 
 
-
 # 附
+## 资源
+> [CookiesPool](https://github.com/hucaihui/CookiesPool)
+> [知名网站登录](https://github.com/hucaihui/fuck-login)
 
 [python命名规范](http://www.cnblogs.com/wangcp-2014/p/4608265.html)
 
