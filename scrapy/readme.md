@@ -7,7 +7,9 @@
 [pipline保存文件](https://www.cnblogs.com/cnkai/p/7397421.html)
 
 # 2、文件说明
-**dingdian** 示例
+
+**quote** 示例
+**dingdian** 示例,比dingdian多一步
 
 **scrapyBron.bat**
 用于生成一个\*run.py文件（Scrapy默认是不能在IDE中调试的）
